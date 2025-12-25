@@ -66,26 +66,6 @@ iv) Configure your OpenAI API key:
 export OPENAI_API_KEY='<API-KEY>'
 ```
 
-## Dependencies
-
-
-Install these required Python packages before running the script:
-
-
-```bash
-pip install pwntools ropper colorama openai
-```
-
-
-Or use the provided `requirements.txt`:
-
-
-```bash
-pip install -r requirements.txt
-```
-
-
-
 ## Usage
 
 
